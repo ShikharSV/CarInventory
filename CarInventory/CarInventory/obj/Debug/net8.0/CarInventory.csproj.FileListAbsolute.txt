@@ -1,0 +1,14 @@
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\CarInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\CarInventory.AssemblyInfoInputs.cache
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\CarInventory.AssemblyInfo.cs
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\CarInventory.csproj.CoreCompileInputs.cache
+C:\Users\shikh\source\repos\CarInventory\CarInventory\bin\Debug\net8.0\CarInventory.exe
+C:\Users\shikh\source\repos\CarInventory\CarInventory\bin\Debug\net8.0\CarInventory.deps.json
+C:\Users\shikh\source\repos\CarInventory\CarInventory\bin\Debug\net8.0\CarInventory.runtimeconfig.json
+C:\Users\shikh\source\repos\CarInventory\CarInventory\bin\Debug\net8.0\CarInventory.dll
+C:\Users\shikh\source\repos\CarInventory\CarInventory\bin\Debug\net8.0\CarInventory.pdb
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\CarInventory.dll
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\refint\CarInventory.dll
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\CarInventory.pdb
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\CarInventory.genruntimeconfig.cache
+C:\Users\shikh\source\repos\CarInventory\CarInventory\obj\Debug\net8.0\ref\CarInventory.dll
